@@ -9,6 +9,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+using CapaNegocio;
+using CapaEntidad;
+
 namespace CapaPresentacion
 {
     public partial class Login : Form
@@ -25,6 +28,9 @@ namespace CapaPresentacion
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
+            List<Usuario> TEST = new CN_Usuario().Listar();
+            Usuario oUsuario = new CN_Usuario().Listar().Where(u => u.Documento == txtDoc.Text && u.Clave == txtPass.Text).FirstOrDefault();
+
             Inicio form = new Inicio();
             form.Show();
             this.Hide();

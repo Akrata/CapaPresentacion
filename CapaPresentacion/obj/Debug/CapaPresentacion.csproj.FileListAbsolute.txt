@@ -12,3 +12,9 @@ C:\Users\Pablo\source\repos\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPres
 C:\Users\Pablo\source\repos\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 C:\Users\Pablo\source\repos\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
 C:\Users\Pablo\source\repos\CapaPresentacion\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Pablo\source\repos\CapaPresentacion\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Pablo\source\repos\CapaPresentacion\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Pablo\source\repos\CapaPresentacion\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Pablo\source\repos\CapaPresentacion\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Pablo\source\repos\CapaPresentacion\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Pablo\source\repos\CapaPresentacion\CapaPresentacion\bin\Debug\CapaDatos.pdb
